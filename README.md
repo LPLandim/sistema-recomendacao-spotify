@@ -1,2 +1,2 @@
-# sistema-recomendacao-spotify
-Criando um recomendador de músicas com o Spotify API, Python e Spark (MLlib, PySpark, Pandas Spark).
+# Recomendador de Músicas
+Criando um recomendador de músicas com Spotify API, Python e Spark (MLlib, PySpark, Pandas Spark).
